@@ -59,4 +59,14 @@ A Unity‑based real‑time multiplayer game using GameSparks backend.
 
 ### Thanks for visiting — feel free to explore my projects or reach out!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+color=blue
+color=green
+color=red
+color=orange
+color=brightgreen
+color=yellow
+style=flat
+style=flat-square
+style=plastic
+![Profile Views](https://komarev.com/ghpvc/?username=romankoval69&color=blue&style=flat)
+
